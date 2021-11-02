@@ -1,5 +1,5 @@
 import SwiftUI
-import WatchKit
+// import WatchKit
 
 // TODO: selection indicator with default size is cut off by status bar when in 12 o’clock position
 
